@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RecicleViewAndroidExercise</string>
+    <string name="nomeA">Braccobaldo</string>
+    <string name="list">Ecco la lista dei personaggi</string>
 </resources>
